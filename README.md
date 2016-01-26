@@ -1,4 +1,4 @@
 # filterView
 分类选择器
 
-![image](https://github.com/levyleo/LLPickerView/blob/master/screenshot.png)
+![image](https://github.com/levyleo/filterView/blob/master/screenshot.png)
